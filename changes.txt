@@ -1,3 +1,5 @@
 remove disbaled
 Position set 0
 Misc ?? External 0 : Internal 1
+Port ?? External Jack : Internal Fixed
+Connector Internal set "ATAPI Internal"
