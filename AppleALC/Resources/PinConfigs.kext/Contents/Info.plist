@@ -1799,20 +1799,16 @@
 					<integer>283902550</integer>
 					<key>ConfigData</key>
 					<data>
-					AScccAEnHQEBJx6mAScfkAE3HPABNx0AATce
-					AAE3H0ABRxzwAUcdAAFHHgABRx9AAYcc8AGH
-					HQABhx4AAYcfQAGXHDABlx0QAZceiwGXHwIB
-					pxzwAacdAAGnHgABpx9AAbccQAG3HQEBtx4Q
-					AbcfkAG3DAIB1xzwAdcdAAHXHgAB1x9AAecc
-					8AHnHQAB5x4AAecfQAIXHFACFx0QAhceKwIX
-					HwICFwwC
+					AhccEAIXHRACFx4hAhcfAgIXDAIBRxwgAUcd
+					AQFHHhMBRx+ZAUcMAgGXHDABlx0QAZcegQGX
+					HwIBJxxAAScdAQEnHqMBJx+ZAZcHJA==
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>57</integer>
 					<key>WakeConfigData</key>
-					<data>AbcMAgIXDAI=</data>
+					<data>AUcMAgIXDAIBlwck</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
